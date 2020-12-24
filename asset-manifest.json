@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ramen-ratings/static/css/main.5dae32ac.chunk.css",
+    "main.js": "/ramen-ratings/static/js/main.37587af3.chunk.js",
+    "main.js.map": "/ramen-ratings/static/js/main.37587af3.chunk.js.map",
+    "runtime-main.js": "/ramen-ratings/static/js/runtime-main.144b02bb.js",
+    "runtime-main.js.map": "/ramen-ratings/static/js/runtime-main.144b02bb.js.map",
+    "static/js/2.8a886b21.chunk.js": "/ramen-ratings/static/js/2.8a886b21.chunk.js",
+    "static/js/2.8a886b21.chunk.js.map": "/ramen-ratings/static/js/2.8a886b21.chunk.js.map",
+    "static/js/3.9cba5fc0.chunk.js": "/ramen-ratings/static/js/3.9cba5fc0.chunk.js",
+    "static/js/3.9cba5fc0.chunk.js.map": "/ramen-ratings/static/js/3.9cba5fc0.chunk.js.map",
+    "index.html": "/ramen-ratings/index.html",
+    "static/css/main.5dae32ac.chunk.css.map": "/ramen-ratings/static/css/main.5dae32ac.chunk.css.map",
+    "static/js/2.8a886b21.chunk.js.LICENSE.txt": "/ramen-ratings/static/js/2.8a886b21.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.144b02bb.js",
+    "static/js/2.8a886b21.chunk.js",
+    "static/css/main.5dae32ac.chunk.css",
+    "static/js/main.37587af3.chunk.js"
+  ]
+}
